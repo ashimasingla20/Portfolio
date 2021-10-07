@@ -1,0 +1,158 @@
+{
+  "name": "Ashima Singla",
+  "email": "ashima_singla20@yahoo.com",
+  "description": "Senior Software Engineer @Unacademy | Ex- Airtel X Labs, Zomato",
+  "resumeUrl": "https://docs.google.com/document/d/1qx-Ff_thwowsns7PEbuK2Wt_UXMlWPiyevFxQN18684/edit?usp=sharing",
+  "drawerButtons": [
+    {
+      "iconName": "linkedIn",
+      "svgPath": "M22.7189 20.9902H18.77V15.2747C18.77 13.9117 18.74 12.1577 16.7122 12.1577C14.6533 12.1577 14.3389 13.6408 14.3389 15.1741V20.9902H10.39V9.23684H14.1833V10.8389H14.2344C14.7644 9.91524 16.0533 8.94024 17.9789 8.94024C21.98 8.94024 22.72 11.3726 22.72 14.5388V20.9902H22.7189ZM5.93 7.62861C4.65889 7.62861 3.63778 6.67824 3.63778 5.50926C3.63778 4.34132 4.66 3.39197 5.93 3.39197C7.19667 3.39197 8.22333 4.34132 8.22333 5.50926C8.22333 6.67824 7.19556 7.62861 5.93 7.62861ZM7.91 20.9902H3.95V9.23684H7.91V20.9902ZM24.6944 0H1.96778C0.88 0 0 0.794368 0 1.7745V22.8571C0 23.8382 0.88 24.6316 1.96778 24.6316H24.6911C25.7778 24.6316 26.6667 23.8382 26.6667 22.8571V1.7745C26.6667 0.794368 25.7778 0 24.6911 0H24.6944Z",
+      "link": "https://www.linkedin.com/in/ashima-singla-453267102/"
+    },
+    {
+      "iconName": "github",
+      "svgPath": "M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12",
+      "link": "https://github.com/ashimasingla20"
+    },
+    {
+      "iconName": "twitter",
+      "svgPath": "M23.954 4.569c-.885.389-1.83.654-2.825.775 1.014-.611 1.794-1.574 2.163-2.723-.951.555-2.005.959-3.127 1.184-.896-.959-2.173-1.559-3.591-1.559-2.717 0-4.92 2.203-4.92 4.917 0 .39.045.765.127 1.124C7.691 8.094 4.066 6.13 1.64 3.161c-.427.722-.666 1.561-.666 2.475 0 1.71.87 3.213 2.188 4.096-.807-.026-1.566-.248-2.228-.616v.061c0 2.385 1.693 4.374 3.946 4.827-.413.111-.849.171-1.296.171-.314 0-.615-.03-.916-.086.631 1.953 2.445 3.377 4.604 3.417-1.68 1.319-3.809 2.105-6.102 2.105-.39 0-.779-.023-1.17-.067 2.189 1.394 4.768 2.209 7.557 2.209 9.054 0 13.999-7.496 13.999-13.986 0-.209 0-.42-.015-.63.961-.689 1.8-1.56 2.46-2.548l-.047-.02z",
+      "link": "https://twitter.com/AshimaSingla20"
+    }
+  ],
+  "favourite": [
+    "Web Development",
+    "Solving Real World Problems",
+    "Singing",
+    "Playing Badminton",
+    "Doodling"
+  ],
+  "aboutText": "Hello! I am working with Unacademy as a Senior Software Engineer. I have 6 years of experience. I completed B.Tech in Computer Science and Engineering in 2015.\n\n I have worked with various other product based companies like Airtel X Labs, Tagtaste and Zomato.\n\nStrong data structures, algorithms and problem-solving skills, fast learner, technology enthusiast, impact-oriented.\n\nI am driven by challenging, fast-paced, exciting, and educational environments. My area of interest is web development.\n",
+  "aboutTechnologies": [
+    "JavaScript (ES6+)",
+    "Node.js",
+    "React",
+    "Redux",
+    "Express",
+    "HTML",
+    "CSS"
+  ],
+  "aboutPictureURL": "https://avatars.githubusercontent.com/u/6905324?v=4",
+  "experience": [
+    {
+      "name": "Unacademy",
+      "position": "Senior Software Engineer",
+      "time": "June  2021 - Present",
+      "description": "Part of K-12 Team. K12 team is responsible for enhancing learning experience of students from KG to 12th.\n• Working on providing Multilingual support on the Website to support regional languages.\n• Worked on enhancements and performance optimisation  in the K12 module which led to significant improvement in lighthouse score.\n• Have Written Unit test Cases from scratch using JEST.",
+      "link": "https://unacademy.com/"
+    },
+    {
+      "name": "Airtel X Labs",
+      "position": "Senior Software Developer",
+      "time": "April  2020 - June2021",
+      "description": "Part of IOT B2B Team. IOT team is majorly responsible for creating CMS for live streaming and playback videos of cameras. \n• Worked on IOT  Video surveillance module from scratch on Frontend where users can see the live streaming of cameras installed in store as well as watch the recorded videos.\n• Have Worked on Integration Of Video surveillance module and its customisations for our first client Airtel Retail single-handedly and won Gem Award for first successful deployment of project.\n• Worked on Capacity planning of servers and redesign of architecture with Devops team and third Party",
+      "link": "https://www.linkedin.com/company/airtel-x-labs/mycompany/"
+    },
+    {
+      "name": "Tagtaste",
+      "position": "Senior Software Developer",
+      "time": "May 2017 - April 2020",
+      "description": "Part of core Engineering team and one of the Founding member in Engineering team \n• Worked on complete rewamp of Website from Laravel and js and moved it to React and Redux led to significant improvement in Performance as well as helped in creating modular structure.\n• Worked on creating the complete Tasting Process the main Business Model of the website.On the Portal users can taste a product and write their feedback based on five senses regarding the Appearance, Aroma, Taste etc and on submit of form average rating for the product is calculated and uploaded on portal.\n• Created a dashboard where content team can upload products and questionnaires for tasting of products.\n• Worked on creating a Handpicked collections page where users can see the various combinations of food products and review them  which helps Food Companies to understand which combinations are appreciated more and helps them in marketing and sales eventually.\n• Worked on Feed Feature where users can post text, Images, Polls and Tasting Collaborations on feed and users can see the activities of other users they follow having infinite scroll using intersection Observer.\n• Created Chat module using socket io with images and files support.",
+      "link": "https://www.tagtaste.com/"
+    },
+    {
+      "name": "Adurcup",
+      "position": "Software Developer",
+      "time": "March 2017 - May 2017",
+      "description": "Worked on creating a text message sending dashboard by which the operations team can send selected template text messages to people who have signed up on the website.\n• Revamped the complete HomePage and the Signup Flow of the Website which lead to increase in user conversion by 10%.",
+      "link": "https://www.adurcup.com/about"
+    },
+    {
+      "name": "Zomato",
+      "position": "Software Developer",
+      "time": "September 2015 - November 2016",
+      "description": "Worked on creating tools and dashboard for internal content Team as well as Logistics Dashboard.",
+      "link": "https://www.zomato.com/"
+    }
+  ],
+  "projectData": [
+    {
+      "name": "Personal Website",
+      "description": "This is my Personal Website built using React and React Spring. Hosted on github pages.",
+      "link": "https://github.com/nimit95/Personal-Website"
+    },
+    {
+      "name": "Okr todo",
+      "description": "A Simple Objective and Key Result TODO-LIST. v1 server Side Rendered with pug and v2 in React. Used Node and Express at the backend. MySQL is the DB",
+      "link": "https://www.okrtodo.com"
+    },
+    {
+      "name": "SOCKS5 Stream",
+      "description": "Convert any socket server into socks5 server using streams",
+      "link": "https://github.com/nimit95/socks5-stream"
+    },
+    {
+      "name": "CPP Headers",
+      "description": "C++ header for Data structure",
+      "link": "https://github.com/nimit95/cpp-header"
+    }
+  ],
+  "blogData": [
+    {
+      "name": "Hello, 2020!",
+      "description": "I wrote a short summary of my 2019 and my plans for the upcoming year 2020.",
+      "link": "https://medium.com/@nimit95/hello-2020-79a4f93e3b8b?source=your_stories_page---------------------------"
+    },
+    {
+      "name": "How to fix app failures on Mac OS Catalina — Notarization",
+      "description": "Fix Mac Catalina app issues.",
+      "link": "https://medium.com/@nimit95/fix-macos-catalina-caused-app-failures-1f9a05d2b0ec?source=your_stories_page---------------------------"
+    },
+    {
+      "name": "SOCKS 5 — A Proxy Protocol",
+      "description": "Explaining SOCKS5 in detail.",
+      "link": "https://medium.com/@nimit95/socks-5-a-proxy-protocol-b741d3bec66c?source=your_stories_page---------------------------"
+    },
+    {
+      "name": "A Simple HTTP/HTTPS Proxy in Node Js",
+      "description": "What is Proxy then making one in Node.js",
+      "link": "https://medium.com/@nimit95/a-simple-http-https-proxy-in-node-js-4eb0444f38fc?source=your_stories_page---------------------------"
+    }
+  ],
+  "journeySteps": [
+    {
+      "heading": "2014 college freshman year and C++",
+      "description": "Freshman year of college in Computer Science at MAIT, Delhi. Began with basics of C++. Started doing some questions online as well. But nothing Serioud"
+    },
+    {
+      "heading": "Learned Android",
+      "description": "There was a big learning curve here. I directly started with Android so had to cope with Learning Java as well. Had got comfortable in C++ though"
+    },
+    {
+      "heading": "Google and Udacity Scholarship",
+      "description": "Had applied for it, and was actually able to clear the test and the interview. Passionately followed Android and Completed Android Developer NanoDegree",
+      "link": ""
+    },
+    {
+      "heading": "Some Internships",
+      "description": "After completing the Nanodegree I did couple of internships in Android. Then followed it up with Teaching Assistant @Coding Blocks in Algo++. Course for advanced Data Structure and Algorithms"
+    },
+    {
+      "heading": "Learned Node.JS!",
+      "description": "After mobile development it was time to move into the world of web. I started with Node and really loved this runtime version of JS."
+    },
+    {
+      "heading": "Completed College 2018 and Joined BrowserStack!",
+      "description": "Finally got my bachelors degree with 78%. Just after graduating I joined BrowserStack as Software Engineer. Also shifted to Mumbai for the job"
+    },
+    {
+      "heading": "Google Certified Mobile Web Specialist",
+      "description": "While working I was able to squeeze enough time to Complete Mobile Web Specialist Nanodegree and then go ahead and also get a Google Certification for the same. This all hone me improve my frontend skills.",
+      "link": ""
+    },
+    {
+      "heading": "Learned ReactJS and made this",
+      "description": ""
+    }
+  ]
+}
